@@ -11,5 +11,11 @@ public class DemoDay5 {
 	public static void getInfo() {
 		System.out.println("Today is java Day");
 	}
-
-}
+	
+         public static void add(int a,int b,int c) {
+		System.out.println(a+b+c);
+    }
+	public static void subtract(int a,int b) {
+		System.out.println(a-b);
+     }
+   }
